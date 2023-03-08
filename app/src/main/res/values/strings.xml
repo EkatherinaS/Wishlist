@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wishlist</string>
+    <string name="my_presents">Мои желания</string>
+    <string name="create_wish">Создать желание</string>
+    <string name="my_friends">Мои друзья</string>
+    <string name="settings">Настройки аккаунта</string>
+</resources>
